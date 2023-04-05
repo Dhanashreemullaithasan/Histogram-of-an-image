@@ -95,6 +95,7 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image
 ![hist dip2](https://user-images.githubusercontent.com/94165415/230139161-686f17d2-6c8f-4fd8-804b-7311232cd1e4.png)
+![hist dip2](https://user-images.githubusercontent.com/94165415/230139479-e9926bca-358f-40a3-a0d5-346eda74e0c9.png)
 
 
 ## Result: 
